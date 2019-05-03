@@ -1,0 +1,1 @@
+This is the absolute mandatory requirement of getting VueJS Single File Components to work into another context. I will try to implement that in Spryker
